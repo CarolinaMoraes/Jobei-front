@@ -1,0 +1,79 @@
+#erro{
+    margin: auto;
+
+}
+
+.alert{
+    margin: auto;
+}
+
+
+
+.v-card{
+    padding: 10px;
+    height: auto !important;
+    width: 25vw;
+    margin: 3vw auto;
+    height: 500px;
+    display: block;
+    min-width: 300px;
+    border-radius: 5px;
+}
+
+.logoLogin{
+    position: relative;
+    width: 70% !important;
+    margin: 0px auto !important;
+    padding-top: 30px;
+    display: block;
+}
+
+.btn{
+    margin: -10px auto 20px;
+    font-family: 'Roboto' !important;
+    font-weight: 500 !important;
+    width: 200px;
+    height: 40px;
+    border-color: #3acbc6 !important; 
+    
+}
+.btn:hover {
+    background-color: #3acbc6  !important;
+    color: white !important;
+    
+}
+
+
+.bottom{
+    display: grid;
+    margin: 10px;
+}
+
+.bottom a {
+    padding: 5px;
+}
+
+#inspire{
+    background-image: url(https://i.imgur.com/fRgE3gZ.jpg) !important;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#input{
+    padding: 10px 20px 0px;
+}
+
+#login{
+    margin-top: 90px;
+}
+
+
+
+@media (max-width: 850px)     
+{
+    .btn{
+        width: 50%;
+    }
+    
+}
+

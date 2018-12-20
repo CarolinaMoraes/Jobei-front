@@ -1,0 +1,46 @@
+#app {
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+#inspire{
+  font-family: 'Avenir', Arial, Helvetica, sans-serif;
+}
+
+.v-list{
+  font-family: 'Roboto Thin', Courier, monospace;
+}
+
+.v-toolbar__content{
+  margin-bottom: -50px !important;
+  margin-top: 3px !important;
+  
+}
+
+.v-list__tile__content{
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.container.fill-height{
+  align-items: normal;
+}
+
+a.side_bar_link{
+  text-decoration: none;
+}
+
+.v-list__tile--avatar img{
+  border-radius: 50%;
+}
+
+.v-list__tile--avatar {
+height: 150px;
+margin-top: 85px;
+margin-bottom: 40px;
+justify-content: center;
+}

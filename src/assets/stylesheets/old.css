@@ -1,0 +1,202 @@
+/* #LogoTamanhoLogin {
+    padding-top: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+    min-width: 130px;
+    min-height: 100px;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+    width:100%;
+    height:100%;
+} */
+
+.v-card{
+    padding: 10px;
+    width: 25vw;
+    margin: 0px auto;
+    height: 500px;
+    display: block;
+    min-width: 300px;
+}
+.logoLogin{
+    position: relative;
+    width: 70% !important;
+    margin: 0px auto !important;
+    padding-top: 20px;
+    display: block;
+}
+
+.btn{
+    margin: -10px auto 20px;
+    font-family: 'Roboto' !important;
+    font-weight: 100 !important;
+    width: 200px;
+    height: 40px;
+    border-color: #1BA298 !important;
+    color: #1BA298 !important; 
+}
+.btn:hover {
+    background-color: #1BA298 !important;
+    color: white !important;
+}
+
+/* 
+#linhaBaixa{
+    content: "A" !important;
+    display: block !important;
+    margin-top: 1em !important;
+    color: #1BA298;
+}
+#linhaBaixa2{
+    content: "A" !important;
+    display: block !important;  
+    color: #1BA298;
+} */
+
+.bottom{
+    display: grid;
+    margin: 10px;
+}
+
+.bottom a {
+    padding: 5px;
+}
+
+#inspire{
+    background-image: url(https://i.imgur.com/fRgE3gZ.jpg) !important;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+#input{
+    padding: 10px 20px 0px;
+}
+
+#login{
+    margin-top: 90px;
+}
+
+
+
+@media (max-width: 850px)     
+{
+    .btn{
+        width: 50%;
+    }
+    
+}
+
+/* @media (max-width: 1200px)     
+{
+    #input{
+        padding-top: 10px !important;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    #LogoTamanhoLogin {
+        padding-top: 20px;
+        padding-left: 70px;
+        padding-right: 70px;
+        min-width: 130px;
+        min-height: 100px;
+        background-repeat: no-repeat !important;
+        background-attachment: fixed;
+        width:100%;
+        height:100%;
+    }
+    
+}
+
+@media (max-width: 1000px) 
+{
+    #input{
+        padding-top: 10px !important;
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+    #LogoTamanhoLogin {
+        padding-top: 20px;
+        padding-left: 50px;
+        padding-right: 50px;    
+        background-repeat: no-repeat !important;
+        background-attachment: fixed;
+        width:100%;
+        height:100%;
+    }
+}
+
+@media (max-width: 960px) 
+{
+    #input{
+        padding-top: 10px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    #LogoTamanhoLogin {
+        padding-top: 20px;
+        padding-left: 90px;
+        padding-right: 100px;    
+        background-repeat: no-repeat !important;
+        background-attachment: fixed;
+        width:100%;
+        height:100%;
+    }
+   
+}
+
+@media (max-width: 640px) 
+{
+    #input{
+        padding-top: 10px !important;
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    #LogoTamanhoLogin {
+        padding-top: 20px;
+        padding-left: 40px;
+        padding-right: 40px;    
+        background-repeat: no-repeat !important;
+        background-attachment: fixed;
+        width:100%;
+        height:100%;
+    }
+   
+}
+@media (max-width: 580px) 
+{
+    #input{
+        padding-top: 10px !important;
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+    #LogoTamanhoLogin {
+        padding-top: 20px;
+        padding-left: 80px;
+        padding-right: 80px;    
+        background-repeat: no-repeat !important;
+        background-attachment: fixed;
+        width:100%;
+        height:100%;
+    }
+   
+}
+@media (max-width: 400px) 
+{
+    #input{
+        padding-top: 10px !important;
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+    #LogoTamanhoLogin {
+        padding-top: 20px;
+        padding-left: 80px;
+        padding-right: 80px;    
+        background-repeat: no-repeat !important;
+        background-attachment: fixed;
+        width:100%;
+        height:100%;
+    } */
+   
+/* } */
+
+

@@ -1,0 +1,74 @@
+/*Classes genéricas que são utilizadas em mais de um código*/
+
+
+h1, h5{
+    font-family: 'Roboto' !important;
+    font-weight: 300 !important;
+}
+
+p, h4{
+    font-family: 'Roboto' !important;
+    font-weight: 100 !important;  
+}
+
+h2{
+    font-family: 'Roboto' !important;
+    font-weight: 100 !important;
+    }
+
+.txt-center{
+    text-align: center !important;
+}
+
+.sub {
+    color: darkgrey;
+    word-wrap: none;
+  }
+
+.avatar{
+    width: 150px;
+    height: 150px;
+}
+
+.btn-link {
+    color:#3acbc6 !important;
+    border: none;
+    transition: color 0.2s;
+    text-decoration: none !important;
+  }
+
+  .btn-link:hover {
+    border: none;
+    color: black !important;
+    text-decoration: none !important;
+  }
+
+  .btn-jobei{
+      background-color:#3acbc6 !important;
+      border: none !important;
+      color: white;
+      padding-top: 11px !important;
+      height: 45px !important;
+  }
+
+  .btn-jobei-outline{
+    background-color: transparent !important;
+    color: #3acbc6 !important;
+    border: 1px solid  #3acbc6 !important;
+    transition: color 0.2s;
+}
+
+    .btn-jobei-outline:hover{
+    background-color:#3acbc6 !important;
+    border: 1px solid  #3acbc6 !important;
+
+}
+
+    .shadow:hover{
+    box-shadow: 0 8px 6px -6px #777 !important;
+}
+
+  template{
+    background-color: #f5f5f5 !important;
+  }
+
